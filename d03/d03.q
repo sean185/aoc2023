@@ -7,7 +7,7 @@ t:0!`g xgroup update g:sums 1<sum each abs deltas idx from t // get adj digits t
 // part 1
 adjm:(1 0;-1 0;0 1;0 -1;1 1;-1 1;-1 -1;1 -1)
 t:update nb:{distinct except[;x]raze adjm +\:/:x}each idx from t
-select sum "J"$chr from t where not all each (txt ./:/: nb) in\:" ."
+exec sum "J"$chr from t where not all each (txt ./:/: nb) in\:" ."
 
 // part 2
 t:update gear:nb@'first each where each "*"=(txt ./:/: distinct each nb) from t

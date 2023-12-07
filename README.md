@@ -9,7 +9,7 @@ As usual, attempting to get as far as I can with q/kdb+, before defaulting to py
 | 01  | 🥈 | 🥇 |
 | 02  | 🥈 | 🥇 |
 | 03  | 🥈 | 🥇 |
-| 04  |  | 🥇 |
+| 04  | 🥈 | 🥇 |
 | 05  |  | 🥇 |
 | 06  | 🥈 | 🥇 |
 | 07  | 🥈 | 🥇 |

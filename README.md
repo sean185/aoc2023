@@ -21,3 +21,4 @@ As usual, attempting to get as far as I can with q/kdb+, before defaulting to py
 | 13  | 🥈 | 🥇 |
 | 14  |  | 🥇 |
 | 15  |  | 🥇 |
+| 16  |  | 🥇 |
